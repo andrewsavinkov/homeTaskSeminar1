@@ -13,7 +13,7 @@ else
     Console.WriteLine("Ваши числа: ");
     while (i<=num)
     {
-        Console.WriteLine($"{i}");
+        Console.WriteLine(i);
         i = i+2;
     }
 }
